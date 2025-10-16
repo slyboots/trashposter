@@ -75,7 +75,7 @@ You may not:
 -  You will defend, indemnify, and hold harmless us and our affiliates, officers, directors, employees, and agents from any claims, damages, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising out of or related to your User Content, your use of the App, your violation of these Terms, or your violation of TikTok’s policies or applicable law.
 
 ## 15. DMCA and Copyright
--  If you believe content posted through the App infringes your copyright, please send a notice to 0+dmca@dwl.dev with the required information. We may remove or disable access to allegedly infringing content and terminate repeat infringers.
+-  If you believe content posted through the App infringes your copyright, please send a notice to dmca@trashposter.com with the required information. We may remove or disable access to allegedly infringing content and terminate repeat infringers.
 
 ## 16. Termination
 -  You may stop using the App at any time.
@@ -98,9 +98,9 @@ You may not:
 
 ## 21. Contact
 -  Dakota Lorance
--  0+trashpostcontact@dwl.dev
--  0+support@dwl.dev
--  0+dmca@dwl.dev
+-  contact@trashposter.com
+-  support@trashposter.com
+-  dmca@trashposter.com
   
 
 ## 22. Entire Agreement; Severability

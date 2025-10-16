@@ -1,6 +1,6 @@
 ## Privacy Policy TrashPoster
 
-Effective Date: Oct 16, 2025
+Effective Date: Oct. 16, 2025
 
 This Privacy Policy explains how TrashPoster (“App,” “we,” “us,” or “our”) collects, uses, shares, and safeguards information in connection with our software that enables users to post video recordings to TikTok. By using the App, you agree to this Policy. If you do not agree, please do not use the App.
 

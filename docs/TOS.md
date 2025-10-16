@@ -1,6 +1,6 @@
 ## Terms of Service - TrashPoster
 
-Effective Date: 10 16, 2023
+Effective Date: Oct. 16, 2025
 
 These Terms of Service (“Terms”) govern your access to and use of TrashPoster (“App,” “we,” “us,” or “our”). By creating an account, accessing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
@@ -50,7 +50,7 @@ You may not:
 -  You may not use our trademarks without our prior written consent.
 
 ## 9. Privacy and Data
--  Our collection and use of personal data are described in our Privacy Policy [link]. By using the App, you consent to our data practices.
+-  Our collection and use of personal data are described in our [Privacy Policy](https://slyboots.github.io/trashposter/PP). By using the App, you consent to our data practices.
 -  We may process account information, video files, captions, analytics, and TikTok tokens/permissions to provide the App.
 -  You acknowledge that TikTok processes your data under its own policies; we do not control TikTok’s data practices.
 
